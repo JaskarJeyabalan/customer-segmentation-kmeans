@@ -142,6 +142,7 @@ This project demonstrates how machine learning can be used to **understand custo
 ## 📌 Author
 
 **Name:** Jaskar Jeyabalan S
+
 **Email:** [jaskarjeyabalan@gmail.com](mailto:jaskarjeyabalan@gmail.com)
 
 ---
