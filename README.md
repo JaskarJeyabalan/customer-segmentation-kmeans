@@ -113,7 +113,7 @@ Below are sample visualizations from the project:
 ## 📁 Project Structure
 
 ```
-customer-segmentation-kmeans/
+customer-segmentation-kmeans
 │
 ├── data/
 ├── images/
