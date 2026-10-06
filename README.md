@@ -126,4 +126,5 @@ customer-segmentation-kmeans/
 ## Author
 
 **Jaskar Jeyabalan S**
+
 Email: [jaskarjeyabalan@gmail.com](mailto:jaskarjeyabalan@gmail.com)
